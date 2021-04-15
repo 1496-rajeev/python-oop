@@ -49,5 +49,3 @@ while True:
        library.addreturnBook(returnbook)
     elif userinput == 4:
         quit()
-
-
